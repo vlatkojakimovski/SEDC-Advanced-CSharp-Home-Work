@@ -1,0 +1,15 @@
+D:\SEAVUS Academu .NET Developer\C # Advanced\Home Work\SEDC-Advanced-CSharp-Home-Work\Class 02 - Invoice APP\Invoice APP\bin\Debug\net5.0\Invoice APP.exe
+D:\SEAVUS Academu .NET Developer\C # Advanced\Home Work\SEDC-Advanced-CSharp-Home-Work\Class 02 - Invoice APP\Invoice APP\bin\Debug\net5.0\Invoice APP.deps.json
+D:\SEAVUS Academu .NET Developer\C # Advanced\Home Work\SEDC-Advanced-CSharp-Home-Work\Class 02 - Invoice APP\Invoice APP\bin\Debug\net5.0\Invoice APP.runtimeconfig.json
+D:\SEAVUS Academu .NET Developer\C # Advanced\Home Work\SEDC-Advanced-CSharp-Home-Work\Class 02 - Invoice APP\Invoice APP\bin\Debug\net5.0\Invoice APP.runtimeconfig.dev.json
+D:\SEAVUS Academu .NET Developer\C # Advanced\Home Work\SEDC-Advanced-CSharp-Home-Work\Class 02 - Invoice APP\Invoice APP\bin\Debug\net5.0\Invoice APP.dll
+D:\SEAVUS Academu .NET Developer\C # Advanced\Home Work\SEDC-Advanced-CSharp-Home-Work\Class 02 - Invoice APP\Invoice APP\bin\Debug\net5.0\ref\Invoice APP.dll
+D:\SEAVUS Academu .NET Developer\C # Advanced\Home Work\SEDC-Advanced-CSharp-Home-Work\Class 02 - Invoice APP\Invoice APP\bin\Debug\net5.0\Invoice APP.pdb
+D:\SEAVUS Academu .NET Developer\C # Advanced\Home Work\SEDC-Advanced-CSharp-Home-Work\Class 02 - Invoice APP\Invoice APP\obj\Debug\net5.0\Invoice APP.GeneratedMSBuildEditorConfig.editorconfig
+D:\SEAVUS Academu .NET Developer\C # Advanced\Home Work\SEDC-Advanced-CSharp-Home-Work\Class 02 - Invoice APP\Invoice APP\obj\Debug\net5.0\Invoice APP.AssemblyInfoInputs.cache
+D:\SEAVUS Academu .NET Developer\C # Advanced\Home Work\SEDC-Advanced-CSharp-Home-Work\Class 02 - Invoice APP\Invoice APP\obj\Debug\net5.0\Invoice APP.AssemblyInfo.cs
+D:\SEAVUS Academu .NET Developer\C # Advanced\Home Work\SEDC-Advanced-CSharp-Home-Work\Class 02 - Invoice APP\Invoice APP\obj\Debug\net5.0\Invoice APP.csproj.CoreCompileInputs.cache
+D:\SEAVUS Academu .NET Developer\C # Advanced\Home Work\SEDC-Advanced-CSharp-Home-Work\Class 02 - Invoice APP\Invoice APP\obj\Debug\net5.0\Invoice APP.dll
+D:\SEAVUS Academu .NET Developer\C # Advanced\Home Work\SEDC-Advanced-CSharp-Home-Work\Class 02 - Invoice APP\Invoice APP\obj\Debug\net5.0\ref\Invoice APP.dll
+D:\SEAVUS Academu .NET Developer\C # Advanced\Home Work\SEDC-Advanced-CSharp-Home-Work\Class 02 - Invoice APP\Invoice APP\obj\Debug\net5.0\Invoice APP.pdb
+D:\SEAVUS Academu .NET Developer\C # Advanced\Home Work\SEDC-Advanced-CSharp-Home-Work\Class 02 - Invoice APP\Invoice APP\obj\Debug\net5.0\Invoice APP.genruntimeconfig.cache
