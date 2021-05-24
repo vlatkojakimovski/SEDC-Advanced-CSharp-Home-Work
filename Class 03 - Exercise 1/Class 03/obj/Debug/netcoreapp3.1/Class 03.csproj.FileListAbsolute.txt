@@ -1,0 +1,13 @@
+C:\Users\Jakimovski\Desktop\Programming Staff\SEAVUS Academu .NET Developer\C # Advanced\Home Work\Class 03 - Exercise 1\Class 03\bin\Debug\netcoreapp3.1\Class 03.exe
+C:\Users\Jakimovski\Desktop\Programming Staff\SEAVUS Academu .NET Developer\C # Advanced\Home Work\Class 03 - Exercise 1\Class 03\bin\Debug\netcoreapp3.1\Class 03.deps.json
+C:\Users\Jakimovski\Desktop\Programming Staff\SEAVUS Academu .NET Developer\C # Advanced\Home Work\Class 03 - Exercise 1\Class 03\bin\Debug\netcoreapp3.1\Class 03.runtimeconfig.json
+C:\Users\Jakimovski\Desktop\Programming Staff\SEAVUS Academu .NET Developer\C # Advanced\Home Work\Class 03 - Exercise 1\Class 03\bin\Debug\netcoreapp3.1\Class 03.runtimeconfig.dev.json
+C:\Users\Jakimovski\Desktop\Programming Staff\SEAVUS Academu .NET Developer\C # Advanced\Home Work\Class 03 - Exercise 1\Class 03\bin\Debug\netcoreapp3.1\Class 03.dll
+C:\Users\Jakimovski\Desktop\Programming Staff\SEAVUS Academu .NET Developer\C # Advanced\Home Work\Class 03 - Exercise 1\Class 03\bin\Debug\netcoreapp3.1\Class 03.pdb
+C:\Users\Jakimovski\Desktop\Programming Staff\SEAVUS Academu .NET Developer\C # Advanced\Home Work\Class 03 - Exercise 1\Class 03\obj\Debug\netcoreapp3.1\Class 03.csprojAssemblyReference.cache
+C:\Users\Jakimovski\Desktop\Programming Staff\SEAVUS Academu .NET Developer\C # Advanced\Home Work\Class 03 - Exercise 1\Class 03\obj\Debug\netcoreapp3.1\Class 03.AssemblyInfoInputs.cache
+C:\Users\Jakimovski\Desktop\Programming Staff\SEAVUS Academu .NET Developer\C # Advanced\Home Work\Class 03 - Exercise 1\Class 03\obj\Debug\netcoreapp3.1\Class 03.AssemblyInfo.cs
+C:\Users\Jakimovski\Desktop\Programming Staff\SEAVUS Academu .NET Developer\C # Advanced\Home Work\Class 03 - Exercise 1\Class 03\obj\Debug\netcoreapp3.1\Class 03.csproj.CoreCompileInputs.cache
+C:\Users\Jakimovski\Desktop\Programming Staff\SEAVUS Academu .NET Developer\C # Advanced\Home Work\Class 03 - Exercise 1\Class 03\obj\Debug\netcoreapp3.1\Class 03.dll
+C:\Users\Jakimovski\Desktop\Programming Staff\SEAVUS Academu .NET Developer\C # Advanced\Home Work\Class 03 - Exercise 1\Class 03\obj\Debug\netcoreapp3.1\Class 03.pdb
+C:\Users\Jakimovski\Desktop\Programming Staff\SEAVUS Academu .NET Developer\C # Advanced\Home Work\Class 03 - Exercise 1\Class 03\obj\Debug\netcoreapp3.1\Class 03.genruntimeconfig.cache
