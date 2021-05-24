@@ -8,27 +8,20 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Jakimovski\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\Jakimovski\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\SEAVUS Academu .NET Developer\\C # Advanced\\Home Work\\SEDC-Advanced-CSharp-Home-Work\\Class 02 - Invoice APP\\Invoice APP\\Invoice APP.csproj",
+      "projectUniqueName": "C:\\Users\\Jakimovski\\Desktop\\Programming Staff\\SEAVUS Academu .NET Developer\\C # Advanced\\Home Work\\SEDC-Advanced-CSharp-Home-Work\\Class 02 - Invoice APP\\Invoice APP\\Invoice APP.csproj",
       "projectName": "Invoice APP",
-      "projectPath": "D:\\SEAVUS Academu .NET Developer\\C # Advanced\\Home Work\\SEDC-Advanced-CSharp-Home-Work\\Class 02 - Invoice APP\\Invoice APP\\Invoice APP.csproj",
+      "projectPath": "C:\\Users\\Jakimovski\\Desktop\\Programming Staff\\SEAVUS Academu .NET Developer\\C # Advanced\\Home Work\\SEDC-Advanced-CSharp-Home-Work\\Class 02 - Invoice APP\\Invoice APP\\Invoice APP.csproj",
       "packagesPath": "C:\\Users\\Jakimovski\\.nuget\\packages\\",
-      "outputPath": "D:\\SEAVUS Academu .NET Developer\\C # Advanced\\Home Work\\SEDC-Advanced-CSharp-Home-Work\\Class 02 - Invoice APP\\Invoice APP\\obj\\",
+      "outputPath": "C:\\Users\\Jakimovski\\Desktop\\Programming Staff\\SEAVUS Academu .NET Developer\\C # Advanced\\Home Work\\SEDC-Advanced-CSharp-Home-Work\\Class 02 - Invoice APP\\Invoice APP\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
         "C:\\Users\\Jakimovski\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
@@ -67,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
       }
     }
   }
